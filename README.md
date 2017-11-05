@@ -1,4 +1,4 @@
-# shiny-spork
+# shinySpork
 FMF LVR 10% : Implementing a SAT Solver
 
 Input: a file in <a href='http://www.satcompetition.org/2009/format-benchmarks2009.html'>DIMACS</a> format specifying a <a href='https://en.wikipedia.org/wiki/Conjunctive_normal_form'>CNF</a> formula
