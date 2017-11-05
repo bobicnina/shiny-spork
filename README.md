@@ -1,2 +1,2 @@
 # shiny-spork
-SAT solver
+FMF LVR 10% : Implementing a SAT Solver
